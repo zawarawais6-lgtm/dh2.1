@@ -1,0 +1,6 @@
+{
+  "name": "DelayHost VST Skinning Studio",
+  "description": "Interactive audio plugin skinner, preset explorer, and procedural theme engine for DelayHost / Amorph VST interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
